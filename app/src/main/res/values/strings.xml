@@ -15,4 +15,5 @@
 	<string name="launch_snackbar_activity">Launch Snackbar Activity</string>
 	<string name="launch_dialog_activity">Launch Dialog Activity</string>
 	<string name="launch_notification_activity">Launch Notification Activity</string>
+	<string name="string_custom_toast">This is custom toast</string>
 </resources>
