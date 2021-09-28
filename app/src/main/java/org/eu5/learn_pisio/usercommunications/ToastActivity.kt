@@ -38,7 +38,9 @@ class ToastActivity : AppCompatActivity(), View.OnClickListener {
             toastDuration = Toast.LENGTH_LONG
 
         // TODO: Create and show the toast message
-
+	    val toast = Toast.makeText(this, "This is a toast", toastDuration)
+	    //toast.setGravity(Gravity.CENTER, 0, 0) // <-- define position to toast message
+	    toast.show()
     }
 
     private fun showCustomToast() {

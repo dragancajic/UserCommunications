@@ -11,4 +11,8 @@
 		It works really well when you have a large amount of information to display in
 		the notification area and want the user to be able to expand the message to see
 		all of the content.</string>
+	<string name="launch_toast_activity">Launch Toast Activity</string>
+	<string name="launch_snackbar_activity">Launch Snackbar Activity</string>
+	<string name="launch_dialog_activity">Launch Dialog Activity</string>
+	<string name="launch_notification_activity">Launch Notification Activity</string>
 </resources>
